@@ -47,7 +47,8 @@ The platform offers a variety of tools categorized for your convenience:
 - **Vanilla JavaScript**: Providing functionality for all tools without external dependencies (except for specific APIs or libraries used in individual tools).
 - **FontAwesome**: Used for beautiful, scalable vector icons.
 
-## Contact
+## Contact info
 
 For any inquiries or feedback, feel free to reach out:
 **Email:** [amanshusharma404@gmail.com](mailto:amanshusharma404@gmail.com)
+
